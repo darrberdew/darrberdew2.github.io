@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch5.png" group-title="SIN" group-title="Variety" group-title="English", SG | Ch5
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch5.png" tvg-country="SG" group-title="Variety" tvg-language="English",SG | Ch5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch8.jpg" group-title="Variety" group-title="SIN" group-title="Chinese",SG | Ch8
