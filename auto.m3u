@@ -1,29 +1,33 @@
 #EXTM3U
-#EXTINF:-1 ,Ch 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",SG | Ch5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 
-#EXTINF:-1 ,Ch 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",SG | Ch8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
 
-#EXTINF:-1 ,Ch U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",SG | ChU
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 
-#EXTINF:-1 ,CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="News",SG | CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
-#EXTINF:-1 ,Cbeebies BBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK |
+Cbeebies BBC
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
-#EXTINF:-1 ,Cbeebies BBC 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK |
+Cbeebies BBC 2
 http://51.52.156.22:8888/http/003
 
-#EXTINF:-1 ,Kids Central
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US |
+Kids Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US |
 #EXTINF:-1 ,PBS Kids
 http://207.38.89.242:8080/live/27/27/14568.ts
 
-#EXTINF:-1 ,UK | TVO Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK | TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 ,US | NickToons
@@ -577,5 +581,15 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/mast
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 ,德国QVC
 http://ios-stream.qvc.de/qvc.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,潮州综合
+http://live.zscz0768.com/live/zhpd.m3u8
 
 
