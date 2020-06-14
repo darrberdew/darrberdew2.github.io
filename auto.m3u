@@ -32,30 +32,30 @@ http://207.38.89.242:8080/live/27/27/14593.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Nick Jr
 http://207.38.89.242:8080/live/27/27/14592.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,US | Nick
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,US | Nick
 http://207.38.89.242:8080/live/27/27/14591.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,US | Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,US | Cartoon Network
 http://207.38.89.242:8080/live/27/27/14587.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,US | Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,US | Disney Channel
 http://207.38.89.242:8080/live/27/27/14588.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,US | Disney Jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,US | Disney Jr
 http://207.38.89.242:8080/live/27/27/14589.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,US | Disney XD
 http://207.38.89.242:8080/live/27/27/14590.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,US | Universal Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,US | Universal Kids
 http://207.38.89.242:8080/live/27/27/14594.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,TW | Baby First
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,TW | Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids“,CN | 嘉仕卡通
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids”,CN | 嘉仕卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",KR | EBS KIDS
@@ -64,19 +64,19 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 Chinese
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan“,JP | NHK华语
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan”,JP | NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan“,TW | 中天娛樂
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan”,TW | 中天娛樂
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan“,TW | 中天娱乐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan”,TW | 中天娱乐
 http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" -title="Taiwan“,TW | 中天新聞
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" -title="Taiwan”,TW | 中天新聞
 rtmp://xiaoyu.speedws.com/sat/tv521
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan“,TW | 中天综合
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan”,TW | 中天综合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Taiwan”,TW | TVBS HD
@@ -496,23 +496,23 @@ https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Sports",Action Sports 4U
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports“,UK | Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports”,UK | Fox Sports
 http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports" group-title="US",US | Fox Soccer Plus
 http://207.38.89.242:8080/live/27/27/14655.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports“,UK | Eleven Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports”,UK | Eleven Sports
 http://207.38.89.242:8080/live/27/27/14648.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports“,BEIN SPORTS LA LIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports”,BEIN SPORTS LA LIGA
 http://207.38.89.242:8080/live/27/27/14644.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports“,BEIN SPORTS ESPAÃ‘OL Ã‘
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports”,BEIN SPORTS ESPAÃ‘OL Ã‘
 http://plus-tv.us:8080/live/1899/1899/4641.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports“,UK | Fox sports FULL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title=“Sports”,UK | Fox sports FULL HD
 http://plus-tv.us:8080/live/1899/1899/11774.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports"US| BEIN SPORTS HD
