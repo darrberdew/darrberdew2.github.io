@@ -164,11 +164,142 @@ http://185.93.2.35:12012/live/359111068247FFA1/0yIFu_zXBzeEhA5SSBAHA6RqeDFhKpclt
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/亞旅衛視.jpeg" group-title="TW",TW | 亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/MTV.png" group-title="Variety",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",UK | BritCom
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/星空.png" group-title="Taiwan",TW | 星空衛视
+http://185.93.2.35:12012/live/359111068247FFA1/MWtiW3hS3i2c-SgHaFWQwk27ss1pt2rAZIWhtvUyJlGTmdUjM7F9nOuNPAO5-ovZ/22236276A7954FD2/396308.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/凤凰HD.jpeg" group-title="Taiwan",TW | 凤凰 HD 
+http://live.centerch.com/fhzw.m3u8
+
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/亚视ATV.jpeg" group-title="HK",HK | 亚视ATV
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVB明珠台.jpeg" group-title="HK",HK | TVB明珠台
+http://m.567it.com/Pearl.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/C+频道.jpg" group-title="HK",HK | C+频道
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Rthk.png" group-title="HK",HK | Rthk
+https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-1 综合 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-2 财经 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-3 综艺 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-4 中文国际 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-5 体育 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV5+ 体育赛事 HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-6 电影 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-7 军事农业 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-8 电视剧 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-9 记录 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-10 科教 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-12HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-11戏曲
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-13新闻
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-14 少儿 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="CN",CN | CCTV-15音乐
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CGTN.png" group-title="CN",CN | CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CGTNfrancias.png" group-title="CN",CN | CGTN Francias
+https://live.cgtn.com/1000f/prog_index.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 潮州综合
+http://live.zscz0768.com/live/zhpd.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 天津卫视高清
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 广东卫视高清
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 佛山综合
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+
+
+
+#EXTINF:-1 group-title="CN",CN | 湖南卫视高清
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="CN",CN | 浙江卫视高清
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="CN",CN | 江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="CN",CN | 东方卫视高清
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="CN",CN | 安徽卫视高清
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="CN",CN | 黑龙江卫视高清
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="CN",CN | 辽宁卫视高清
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="CN",CN | 深圳卫视高清
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 江苏卫视
+http://ivi.bupt.edu.cn/hls/jstv.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 厦门卫视
+http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 福建东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+
+#EXTINF:-1 group-title="CN",CN | 贵州卫视
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 group-title="CN",CN | 甘肃卫视
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
+
+
+
 
 
 
@@ -280,6 +411,9 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CHC%20家庭影院.jpg" group-title="Movies",TW | CHC 家庭影院
 rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/凤凰电影.png" group-title="Movies",TW | 凤凰电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+
 #EXTINF:-1 ,English Movie
 https://59d39900ebfb8.streamlock.net/horrifiedtv/horrifiedtv/chunklist_w67985971.m3u8
 
@@ -298,6 +432,13 @@ http://207.38.89.242:8080/live/27/27/14642.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",US | TLC
 http://207.38.89.242:8080/live/27/27/14573.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",US | National Geographic
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discovery.jpeg" group-title="Variety",US | Discovery
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discoveryID.jpeg" group-title="Variety",US | Discovery ID
@@ -325,7 +466,7 @@ Travel
 #EXTINF:-1 group-title="Variety" This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Travelchannel.png" group-title="Travel",US | TRAVEL Channel
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Travelchannel.png" group-title="Variety",US | TRAVEL Channel
 http://207.38.89.242:8080/live/27/27/14574.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/destinationamerica.jpeg" group-title="Variety",US | Destination America
@@ -348,6 +489,13 @@ http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/itv.png" group-title="Variety",UK | ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/MTV.png" group-title="Variety",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",UK | BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:-1 ,Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
@@ -458,8 +606,14 @@ http://plus-tv.us:8080/live/1899/1899/11774.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/beinsportsHD.png" group-title="Sports",US| BEIN SPORTS HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1820
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/starsports.png" group-title="Sports",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="Sports",CN | CCTV-5 体育 HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="Sports",CN | CCTV5+ 体育赛事 HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
 
 
