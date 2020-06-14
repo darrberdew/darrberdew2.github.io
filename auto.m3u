@@ -62,8 +62,6 @@ http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
-Chinese
-
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/NHK%20华语.png" group-title="Taiwan",JP | NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
@@ -176,9 +174,6 @@ http://185.93.2.35:12012/live/359111068247FFA1/OSj3tS0tajUnZzTXBDU1gVO8DxHizDKom
 
 
 
-
-
-Movies
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FoxActionmovies.png” group-title="Movies",US | Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
@@ -275,7 +270,9 @@ http://207.38.89.242:8080/live/27/27/14569.ts
 http://207.38.89.242:8080/live/27/27/14623.ts
 
 
-News
+
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/” group-title="News",KR | Arirang World News
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
@@ -380,7 +377,9 @@ http://207.38.89.242:8080/live/17722/17722/14552.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/” group-title="Variety",US | NatGeo Wild
 http://207.38.89.242:8080/live/27/27/14567.ts
 
-Cantonese
+
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="HK",HK | TVB明珠台
 http://m.567it.com/Pearl.m3u8
@@ -395,7 +394,9 @@ https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_10
 
 
 
-Sports
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/” group-title="Sports",US | Boston tv
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 
@@ -470,30 +471,32 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
 
 
-Foreign Channels:
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | Munchen TV
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | MDF.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | Isar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | Baden TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | Noa 4 Norderstedt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | Noa 4 Hamburg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | Offener Kanal Magdeburg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | pop10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | pop10
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | RFO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | TV Oberfranken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="DE",DE | QVC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | QVC
 http://ios-stream.qvc.de/qvc.m3u8
 
 
