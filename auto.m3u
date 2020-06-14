@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",SG | Ch5
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch5.png" group-title="Variety" group-title="English", SG | Ch5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",SG | Ch8
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch8.jpg" group-title="Variety",SG | Ch8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Variety",SG | ChU
@@ -11,110 +11,101 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="News",SG | CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK |
-Cbeebies BBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK | Cbeebies BBC
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK |
-Cbeebies BBC 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK | Cbeebies BBC 2
 http://51.52.156.22:8888/http/003
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US |
-Kids Central
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/kids%20central.jpeg" group-title="Kids",US | Kids Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US |
-#EXTINF:-1 ,PBS Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | PBS Kids
 http://207.38.89.242:8080/live/27/27/14568.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",UK | TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 ,US | NickToons
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | NickToons
 http://207.38.89.242:8080/live/27/27/14593.ts
 
-#EXTINF:-1 ,US | Nick Jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Nick Jr
 http://207.38.89.242:8080/live/27/27/14592.ts
 
 
-#EXTINF:-1 ,US | Nick
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Nick
 http://207.38.89.242:8080/live/27/27/14591.ts
 
-#EXTINF:-1 ,US | Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Cartoon Network
 http://207.38.89.242:8080/live/27/27/14587.ts
 
-#EXTINF:-1 ,US | Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Disney Channel
 http://207.38.89.242:8080/live/27/27/14588.ts
 
-#EXTINF:-1 ,US | Disney Jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Disney Jr
 http://207.38.89.242:8080/live/27/27/14589.ts
 
-#EXTINF:-1 ,US | Disney XD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Disney XD
 http://207.38.89.242:8080/live/27/27/14590.ts
 
-#EXTINF:-1 ,US | Universal Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",US | Universal Kids
 http://207.38.89.242:8080/live/27/27/14594.ts
 
-#EXTINF:-1 ,Baby First (Taiwan)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",TW | Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 
 
-#EXTINF:-1 ,嘉仕卡通
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",CN | 嘉仕卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 
-#EXTINF:-1 ,EBS KIDS Korean
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Kids",KR | EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 ,迪斯尼频道 (IJK硬解)
-http://live.52ypp.com:81/tw.php?id=67
 
 
 Chinese
-#EXTINF:-1 ,佛山综合
-http://dslive.grtn.cn/fszh/sd/live.m3u8
 
-#EXTINF:-1 ,NHK华语
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",JP | NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
-#EXTINF:-1 ,中天娛樂
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 中天娛樂
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 ,中天娱乐
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 中天娱乐
 http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 ,中天新聞
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 中天新聞
 rtmp://xiaoyu.speedws.com/sat/tv521
-#EXTINF:-1 ,中天综合
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 中天综合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
-
-
-
-#EXTINF:-1 ,TVBS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | TVBS HD
 http://153.99.180.70:5021/live/349/playlist.m3u8
 
-#EXTINF:-1 ,TVBS新闻
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | TVBS新闻
 rtmp://xiaoyu.speedws.com/sat/tv551
 
-#EXTINF:-1 ,TVBS歡樂HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | TVBS歡樂HD
 rtmp://xiaoyu.speedws.com/sat/tv421
 
-#EXTINF:-1 ,星空衛视
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 星空衛视
 http://185.93.2.35:12012/live/359111068247FFA1/MWtiW3hS3i2c-SgHaFWQwk27ss1pt2rAZIWhtvUyJlGTmdUjM7F9nOuNPAO5-ovZ/22236276A7954FD2/396308.ts
 
-#EXTINF:-1 ,三立新闻
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 三立新闻
 http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
 
 
 
-#EXTINF:-1 ,东森戏剧
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 东森戏剧
 http://185.93.2.35:12012/live/359111068247FFA1/K-J8wMufdvLCaTVTs5TvB0tIFxZ7pSk4fhAht--vgbuLyn4CrerQu-2hPqWvgwed/F276A55A25484C85/805457.ts
-#EXTINF:-1 ,东森新闻
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 东森新闻
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 ,东森洋片
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 东森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 ,东森电影
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 东森电影
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 ,东森综合
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="Chinese",TW | 东森综合
 http://185.93.2.35:12012/live/359111068247FFA1/jexYzw2nfgJViItO_aETKS5sRGJYWvQ1IR87CELH5hgzX9LWe2j65KY7CZXNXgXJ/B6C251966DB148D9/656288.ts
 
 #EXTINF:-1 ,东森财經
@@ -587,6 +578,8 @@ http://ios-stream.qvc.de/qvc.m3u8
 
 
 
+#EXTINF:-1 ,佛山综合
+http://dslive.grtn.cn/fszh/sd/live.m3u8
 
 
 #EXTINF:-1 ,潮州综合
