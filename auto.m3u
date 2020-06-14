@@ -212,16 +212,16 @@ http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOHits.png" group-title="Movies",US | HBO hit
 http://58.215.133.185:5021/live/238?pid=HHQEGROJIVJW@5082QPD&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Movies",TW | 凤凰电影
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/凤凰电影.png" group-title="Movies",TW | 凤凰电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Movies",TW | CHC 高清电影
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CHC%20高清电影.jpg" group-title="Movies",TW | CHC 高清电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Movies",TW | CHC 动作电影
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CHC%20动作电影.jpeg" group-title="Movies",TW | CHC 动作电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Movies",TW | CHC 家庭影院
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CHC%20家庭影院.jpg" group-title="Movies",TW | CHC 家庭影院
 rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 
 
@@ -274,26 +274,26 @@ http://207.38.89.242:8080/live/27/27/14623.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",KR | Arirang World News
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Arirang.png" group-title="News",KR | Arirang World News
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | Fox News
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxnews.png" group-title="News",US | Fox News
 https://gma2.blab.email/espn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | CBS News
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBS.png" group-title="News",US | CBS News
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/skynews.png" group-title="News",UK | Sky News
 http://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",UK | Sky News Extra
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/skynewsextra.png" group-title="News",UK | Sky News Extra
 http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | CBS News Pittsburg
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cbsnewspittsburg.jpeg" group-title="News",US | CBS News Pittsburg
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | CBS News
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBS.png" group-title="News",US | CBS News
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",JP | NHK World
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/NHKworld.png" group-title="News",JP | NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 
 
@@ -302,93 +302,93 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | ABC
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/ABC.png" group-title="News",US | ABC
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",UK | BBC
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BBC.png" group-title="News",UK | BBC
 http://51.52.156.22:8888/http/004
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | CNN
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CNN.png" group-title="News",US | CNN
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",DE | DW News
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DWnews.png" group-title="News",DE | DW News
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxfXXlb.png" group-title="News “,UK | Reuters
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxfXXlb.png" group-title="News",UK | Reuters
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",US | Fox News
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxnews.png" group-title="News",US | Fox News
 https://gma2.blab.email/espnu.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="News",FR | France-24
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/France24.png" group-title="News",FR | France-24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",IN | Netmax 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Netmax.png" group-title="Variety",IN | Netmax 
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",NZ | Wairarapa TV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/WairarapaTV.png" group-title="Variety",NZ | Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/outsidetv.png" group-title="Variety",US | Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",US | Denver 8 TV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Denver8.png" group-title="Variety",US | Denver 8 TV
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="CN",CN | CGTN
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CGTN.png" group-title="CN",CN | CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="CN",CN | CGTN Francias
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CGTNfrancias.png" group-title="CN",CN | CGTN Francias
 https://live.cgtn.com/1000f/prog_index.m3u8
 
 
 
 
 Travel
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety" This is Bulgaria
+#EXTINF:-1 group-title="Variety" This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Travel",US | TRAVEL Channel
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Travelchannel.png" group-title="Travel",US | TRAVEL Channel
 http://207.38.89.242:8080/live/27/27/14574.ts
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",US | Food Network
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foodnetwork.png" group-title="Variety",US | Food Network
 http://207.38.89.242:8080/live/17722/17722/14559.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",US | Destination America
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/destinationamerica.jpeg" group-title="Variety",US | Destination America
 http://207.38.89.242:8080/live/17722/17722/14555.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="TW",TW | 亞洲旅遊台
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/亞洲旅遊台.png" group-title="TW",TW | 亞洲旅遊台
 http://185.93.2.35:12012/live/359111068247FFA1/0yIFu_zXBzeEhA5SSBAHA6RqeDFhKpcltULrP_vUBelCbLbC3gBlBEjUxsb_iVIn/FBC9302A353D4673/448135.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="TW",TW | 亞旅衛視
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/亞旅衛視.jpeg" group-title="TW",TW | 亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",Nasa
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/nasa.png" group-title="Variety",Nasa
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",US | Discovery ID
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discoveryID.jpeg" group-title="Variety",US | Discovery ID
 http://207.38.89.242:8080/live/17722/17722/14552.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Variety",US | NatGeo Wild
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild
 http://207.38.89.242:8080/live/27/27/14567.ts
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="HK",HK | TVB明珠台
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVB明珠台.jpeg" group-title="HK",HK | TVB明珠台
 http://m.567it.com/Pearl.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="HK",HK | C+频道
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/C+频道.jpg" group-title="HK",HK | C+频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Cantonese" group-title="HK",Rthk
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Rthk.png" group-title="Cantonese" group-title="HK",Rthk
 https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
 
 
@@ -397,13 +397,13 @@ https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_10
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",US | Boston tv
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BostonTV.jpeg" group-title="Sports",US | Boston tv
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",UK | Edge Sports
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/edgesports.png" group-title="Sports",UK | Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",US | Fox Sports Golf
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsports.png" group-title="Sports",US | Fox Sports Golf
 http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",US | Redbull tv
@@ -412,42 +412,42 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Setanasports.jpeg" group-title="Sports",UK | Setana Sports
 http://185.57.68.33:8091/226/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",Soccer Tv
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/soccertv.jpg" group-title="Sports",Soccer Tv
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",Sportskool TV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/sportskooltv.jpeg" group-title="Sports",Sportskool TV
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",Action Sports 4U
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/actionsports4u.jpeg" group-title="Sports",Action Sports 4U
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",UK | Fox Sports
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsports.png" group-title="Sports",UK | Fox Sports
 http://45.58.62.92:8080
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports" group-title="US",US | Fox Soccer Plus
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsoccerplus.jpeg" group-title="Sports" group-title="US",US | Fox Soccer Plus
 http://207.38.89.242:8080/live/27/27/14655.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",UK | Eleven Sports
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/elevensports.png" group-title="Sports",UK | Eleven Sports
 http://207.38.89.242:8080/live/27/27/14648.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",BEIN SPORTS LA LIGA
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/beinsportslaliga.jpg" group-title="Sports",BEIN SPORTS LA LIGA
 http://207.38.89.242:8080/live/27/27/14644.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",BEIN SPORTS ESPAÃ‘OL Ã‘
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/beinsportsespanol.jpeg" group-title="Sports",BEIN SPORTS ESPÃNOL
 http://plus-tv.us:8080/live/1899/1899/4641.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",UK | Fox sports FULL HD
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsports.png" group-title="Sports",UK | Fox sports FULL HD
 http://plus-tv.us:8080/live/1899/1899/11774.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports"US| BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/beinsportsHD.png" group-title="Sports",US| BEIN SPORTS HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1820
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports" UK | ITV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/itv.png" group-title="Variety",UK | ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 
 
@@ -459,15 +459,19 @@ https://59d39900ebfb8.streamlock.net/horrifiedtv/horrifiedtv/chunklist_w67985971
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 
-#EXTINF:-1 ,FASHION PARIS
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/fashionparis.jpg" group-title="Variety",FASHION PARIS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
 
-#EXTINF:-1 ,Fashion TV
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/fashiontv.png" group-title="Variety",Fashion TV
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 ,Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 ,World Fashion International
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/tvwfi.jpg" group-title="Variety",World Fashion International
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
 
 
