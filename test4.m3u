@@ -4339,7 +4339,7 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/4.jpeg" group-title="Dramas",UK | Channel 4
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/4.jpeg" group-title="Drama",UK | Channel 4
 http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com
 
 
@@ -4441,19 +4441,19 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Dramas",Asia | AXN
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Drama",Asia | AXN
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne&checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FX.png" group-title="Dramas",US | FX
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FX.png" group-title="Drama",US | FX
 http://207.38.89.242:8080/live/17722/17722/14560.ts
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Fxx.png" group-title="Dramas",US | FXX
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Fxx.png" group-title="Drama",US | FXX
 http://207.38.89.242:8080/live/17722/17722/14561.ts
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Hallmark.png" group-title="Dramas",US | Hallmark
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Hallmark.png" group-title="Drama",US | Hallmark
 http://207.38.89.242:8080/live/17722/17722/14562.ts
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HallmarkDrama.png" group-title="Dramas",US | Hallmark Drama
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HallmarkDrama.png" group-title="Drama",US | Hallmark Drama
 http://207.38.89.242:8080/live/17722/17722/14563.ts
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Lifetime.png" group-title="Dramas",US | Lifetime
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Lifetime.png" group-title="Drama",US | Lifetime
 http://207.38.89.242:8080/live/17722/17722/14565.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/USANetwork.png" group-title="Drama",US | USA Network
@@ -4491,7 +4491,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsports.png" group-title="Sports",US | Fox Sports Golf
 http://45.58.62.92:8080
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/" group-title="Sports",US | Redbull tv
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/redbulltv.png" group-title="Sports",US | Redbull tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Setanasports.jpeg" group-title="Sports",UK | Setana Sports
@@ -4509,7 +4509,7 @@ https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsports.png" group-title="Sports",UK | Fox Sports
 http://45.58.62.92:8080
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsoccerplus.jpeg" group-title="Sports" group-title="US",US | Fox Soccer Plus
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxsoccerplus.jpeg" group-title="Sports" group-title="Sports",US | Fox Soccer Plus
 http://207.38.89.242:8080/live/27/27/14655.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/elevensports.png" group-title="Sports",UK | Eleven Sports
@@ -4547,29 +4547,29 @@ http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Munchen TV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/munchentv.png" group-title="German",DE | Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | MDF.1
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/MDF.png" group-title="German",DE | MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Isar TV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Isar.png" group-title="German",DE | Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Baden TV
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/badentv.png" group-title="German",DE | Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Noa 4 Norderstedt
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Noa4Norderstedt.jpeg" group-title="German",DE | Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Noa 4 Hamburg
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Noa4Hamburg.jpeg" group-title="German",DE | Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | Offener Kanal Magdeburg
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/OffenerKanalMagdeburg.png" group-title="German",DE | Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | pop10
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/pop10.png" group-title="German",DE | pop10
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | RFO
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/RFO.png" group-title="German",DE | RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVAOstbayern.png" group-title="German",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | TV Oberfranken
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVOberfranken.jpeg" group-title="German",DE | TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="German",DE | QVC
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/QVC.png" group-title="German",DE | QVC
 http://ios-stream.qvc.de/qvc.m3u8
 
 
