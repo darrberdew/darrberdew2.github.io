@@ -15,7 +15,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
 
-
+#EXTINF:-1 ,Cartoon
+http://bd.flv.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
