@@ -197,18 +197,17 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/AMC.png" group-title="Movies",US | AMC
 http://207.38.89.242:8080/live/17722/17722/14551.ts
 
-http://207.38.89.242:8080/live/17722/17722/14558.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Warner.png" group-title="Movies",US | Warner
 http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboasia.jpeg" group-title="Movies",US | HBO hit
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboasia.jpeg" group-title="Movies",US | HBO Asia 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOHits.png" group-title="Movies",US | HBO hit
-http://58.215.133.185:5021/live/238?pid=HHQEGROJIVJW@5082QPD&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboaeast.gif" group-title="Movies",US | HBO East
+http://cdn.miip.tv:8080/canada/123456/2659?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOZone.png" group-title="Movies",US | HBO Zone
-http://207.38.89.242:8080/live/17722/17722/14605.ts
+http://thenew.tv:8000/live/Dante/Dante1/75.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOFamily.png" group-title="Movies",US | HBO Family
 http://207.38.89.242:8080/live/17722/17722/14618.ts
@@ -275,6 +274,9 @@ http://thenew.tv:8000/live/Dante/Dante1/104610.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild (German)
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+
 
 
 
@@ -282,6 +284,10 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discovery.jpeg" group-title="Variety",US | Discovery
 http://thenew.tv:8000/live/Dante/Dante1/104600.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discovery.jpeg" group-title="Variety",US | Discovery
+http://207.38.89.242:8080/live/17722/17722/14558.ts
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discoveryID.jpeg" group-title="Variety",US | Discovery ID
 http://207.38.89.242:8080/live/17722/17722/14552.ts
@@ -360,6 +366,9 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Drama",Asia | AXN
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne&checkedby:iptvcat.com
 
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/fox.png" group-title="Drama",US | Fox
+http://207.38.89.242:8080/live/17722/17722/14621.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FX.png" group-title="Drama",US | FX
 http://207.38.89.242:8080/live/17722/17722/14560.ts
