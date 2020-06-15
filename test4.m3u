@@ -34,16 +34,16 @@ http://207.38.89.242:8080/live/27/27/14568.ts
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nicktoons.jpeg" group-title="Kids",US | NickToons
-http://207.38.89.242:8080/live/27/27/14593.ts
+http://plus-tv.us:8080/live/1899/1899/14593.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/NickJr.jpeg" group-title="Kids",US | Nick Jr
-http://207.38.89.242:8080/live/27/27/14592.ts
+http://plus-tv.us:8080/live/1899/1899/14592.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nickelodeon.png" group-title="Kids",US | Nick
-http://207.38.89.242:8080/live/27/27/14591.ts
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nickelodeon.png" group-title="Kids",US | Nickelodeon
+http://207.38.89.242:8080/live/17299/17299/14591.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CN.png" group-title="Kids",US | Cartoon Network
-http://207.38.89.242:8080/live/27/27/14587.ts
+http://207.38.89.242:8080/live/17299/17299/14587.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",US | Disney Channel
 http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
