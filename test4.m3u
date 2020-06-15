@@ -55,7 +55,7 @@ http://plus-tv.us:8080/live/1899/1899/14589.m3u8?checkedby:iptvcat.com
 http://207.38.89.242:8080/live/27/27/14590.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Universal Kids.png" group-title="Kids",US | Universal Kids
-http://207.38.89.242:8080/live/27/27/14594.ts
+http://plus-tv.us:8080/live/1899/1899/14594.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",CA | Baby First
 http://cdn.miip.tv:8080/canada/123456/4125?checkedby:iptvcat.com
