@@ -213,7 +213,7 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE?checkedby:iptvc
 http://cdn.miip.tv:8080/canada/123456/2659?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOZone.png" group-title="Movies",US | HBO Zone
-http://212.38.189.9:25461/live/brent/brent/75027.m3u8?checkedby:iptvcat.com
+http://plus-tv.us:8080/live/10099/10099/14605.ts?checkedby:iptvcat.com#
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOFamily.png" group-title="Movies",US | HBO Family
 http://207.38.89.242:8080/live/17722/17722/14618.ts
