@@ -572,7 +572,7 @@ http://51.159.21.231:2052/usapro2@source/799965@26641/1820
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="Sports",CN | CCTV-5 体育 HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="Sports",CN | CCTV5+ 体育赛事 HD
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
@@ -597,18 +597,20 @@ http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-1 综合 HD
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8?checkedby:iptvcat.com
+http://117.169.120.140:8080/live/cctv-1/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-2 财经 HD
 http://112.50.243.4/PLTV/88888888/224/3221226795/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-3 综艺 HD
-http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-4 中文国际 HD
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://117.169.120.140:8080/live/cctv-4/.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-5 体育 HD
-http://39.135.135.54/PLTV/88888888/224/3221225606/index.m3u8
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV5+ 体育赛事 HD
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
@@ -630,11 +632,7 @@ http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.z
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-11戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-
-
-
-
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-12社会与法
@@ -642,13 +640,20 @@ http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-13新闻
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-14 少儿 HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cctv.png" group-title="China",CN | CCTV-17农业农村
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CGTN.png" group-title="China",CN | CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
