@@ -20,6 +20,7 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://cdn.miip.tv:8080/canada/123456/4125?checkedby:iptvcat.com
 
 
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
@@ -256,7 +257,7 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/4.jpeg" group-title="Variety",UK | Channel 4
-http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com
+http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com#http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31018?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HGTV.png" group-title="Variety",US | HGTV
 http://cdn.miip.tv:8080/canada/123456/494?checkedby:iptvcat.com#http://207.38.89.242:8080/live/17299/17299/14641.m3u8?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/104538.m3u8?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/164345.m3u8?checkedby:iptvcat.com#
