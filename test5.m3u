@@ -39,7 +39,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://plus-tv.us:8080/live/10099/10099/14593.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/NickJr.jpeg" group-title="Kids",US | Nick Jr
-http://207.38.89.242:8080/live/2993/2993/14592.ts?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/212.m3u8?checkedby:iptvcat.com#http://212.38.189.9:25461/live/brent/brent/74754.m3u8?checkedby:iptvcat.com
+http://ux.mytvxweb.me:25461/Pr/1234/323301?checkedby:iptvcat.com#http://207.38.89.242:8080/live/2993/2993/14592.ts?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/212.m3u8?checkedby:iptvcat.com#http://212.38.189.9:25461/live/brent/brent/74754.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nickelodeon.png" group-title="Kids",US | Nickelodeon
 http://cdn.miip.tv:8080/canada/123456/528?checkedby:iptvcat.com
@@ -54,8 +54,7 @@ http://212.38.189.9:25461/live/leslie/leslie/75215.m3u8?checkedby:iptvcat.com
 http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyJr.jpeg" group-title="Kids",US | Disney Jr
-http://212.38.189.9:25461/live/brent/brent/75067.m3u8?checkedby:iptvcat.com#http://207.38.89.242:8080/live/2993/2993/14589.ts?checkedby:iptvcat.com#
-http://plus-tv.us:8080/live/1899/1899/14589.m3u8?checkedby:iptvcat.com
+http://212.38.189.9:25461/live/brent/brent/75067.m3u8?checkedby:iptvcat.com#http://207.38.89.242:8080/live/2993/2993/14589.ts?checkedby:iptvcat.com#http://plus-tv.us:8080/live/1899/1899/14589.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyXD.png" group-title="Kids",Asia | Disney XD
 http://212.38.189.9:25461/live/brent/brent/75215.m3u8?checkedby:iptvcat.com#http://212.38.189.9:25461/live/leslie/leslie/75215.m3u8?checkedby:iptvcat.com
