@@ -274,7 +274,7 @@ http://ux.mytvxweb.me:25461/Pr/1234/323330?checkedby:iptvcat.com#http://207.38.8
 
 
 
-Asia | National Geographic
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",Asia | National Geographic
 http://doubleagechanmain.com:80/123456/123456/1575?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",US | National Geographic
