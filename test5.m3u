@@ -315,7 +315,7 @@ http://207.38.89.242:8080/live/17299/17299/14631.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CookingChannel.jpeg" group-title="Variety",US | Cooking channel
 http://plus-tv.us:8080/live/1899/1899/14629.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foodnetwork.png" group-title="Variety",US | Food Network
-http://207.38.89.242:8080/live/17722/17722/14559.ts
+http://plus-tv.us:8080/live/10099/10099/14559.ts?checkedby:iptvcat.com
 
 Travel
 #EXTINF:-1 group-title="Variety" This is Bulgaria
