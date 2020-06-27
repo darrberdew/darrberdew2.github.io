@@ -242,19 +242,19 @@ http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9797.ts
 
 
 #EXTINF:-1 group-title="Movies",US | HBO 2
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2942?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4687.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboaeast.gif" group-title="Movies",US | HBO East
 http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2947?checkedby:iptvcat.comm
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOZone.png" group-title="Movies",US | HBO Zone
-http://plus-tv.us:8080/live/10099/10099/14605.ts?checkedby:iptvcat.com#
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9858.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOFamily.png" group-title="Movies",US | HBO Family
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9797.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9798.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOSignature.png" group-title="Movies",US | HBO Signature
-http://207.38.89.242:8080/live/17722/17722/14619.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9800.ts
 
 #EXTINF:-1 tvg-logo="abbc" group-title="Movies",TW | 大众影视
 http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
@@ -301,13 +301,17 @@ http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com#http://tvpr
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9856.ts#http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9856.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",US | TLC
-http://iptvbest.org/tomcopp/3ptvyjvb7T/2919?checkedby:iptvcat.com#
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4276.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/e.png" group-title="Variety",US | E!
 http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9859.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/animalplanet.png" group-title="Variety",CA | Animal Planet
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4642.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/animalplanet.png" group-title="Variety",US | Animal Planet
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4984.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/animalplanet.png" group-title="Variety",Asia | Animal Planet
@@ -322,31 +326,34 @@ http://185.93.2.35:12012/live/359111068247FFA1/ZZxSKI7KrZQYoIAleRtuO3v4wb1tDm28J
 http://185.93.2.35:12012/live/359111068247FFA1/kCRdK-SabFep-1NkdUpQhyihdKpjgQN7euYM2D5rghDm9D9O4QlHw-tnTOt0Jy5s/189BDC20C58B4075/258267.ts
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",Asia | National Geographic
-http://185.93.2.35:12012/live/359111068247FFA1/KQvrQq7HAjlzjUEW78PsFTeg3BP3CzycKO_-bTskphfLw2paawObOiNF5yb0XYVM/CCE851ED3CE04440/471962.ts
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/History.jpeg" group-title="Variety",US | History Channel
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4197.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",US | National Geographic
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4223.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",Asia | National Geographic
 http://185.93.2.35:12012/live/359111068247FFA1/ZIB59FRsEgEqYR-HwGgEocDjN6lL9vaW7pfy766MVr0C_eKs6paMMI2nzYDYGHfW/56B534EDBA594D74/932852.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild
-https://iptvcat.com/s/nat%https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4224.ts#https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discovery.jpeg" group-title="Variety",US | Discovery
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2833?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4171.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discoveryID.jpeg" group-title="Variety",US | Discovery ID
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/12520.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/12520.ts#http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9646.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryFamily.png" group-title="Variety",US | Discovery Family
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2835?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4990.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Discoverylife.png" group-title="Variety",US | Discovery Life
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2838?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4994.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryScience.jpeg" group-title="Variety",US | Discovery Science
 http://doubleagechanmain.com:80/123456/123456/1523?checkedby:iptvcat.com
