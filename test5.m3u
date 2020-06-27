@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch5.png" group-title="Variety",SG | Ch5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Mediacorpch8.jpg" group-title="Variety",SG | Ch8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/MediaCorp_ChannelU.jpg" group-title="Variety",SG | ChU
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 
@@ -16,52 +14,69 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",CA | Baby First
-http://cdn.miip.tv:8080/canada/123456/4125?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby First
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9931.ts
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/babytv.jpeg" group-title="Kids",CA | Baby TV
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9931.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/babytv.jpeg" group-title="Kids",UK | Baby TV
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4150.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC 2
-http://51.52.156.22:8888/http/003
+http://51.52.156.22:8888/http/003?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies 
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4091.ts
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/kids%20central.jpeg" group-title="Kids",US | Kids Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/PBS_Kids_Logo.svg.png" group-title="Kids",US | PBS Kids
-http://207.38.89.242:8080/live/27/27/14568.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9822.ts
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVO_KIDS.jpg" group-title="Kids",UK | TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nicktoons.jpeg" group-title="Kids",US | NickToons
-http://plus-tv.us:8080/live/10099/10099/14593.m3u8?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4227.ts#http://best-servers.xyz:8000/aziz2020/2020aziz/6269?checkedby:iptvcat.com#http://plus-tv.us:8080/live/10099/10099/14593.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/NickJr.jpeg" group-title="Kids",US | Nick Jr
-http://207.38.89.242:8080/live/2993/2993/14592.ts?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/212.m3u8?checkedby:iptvcat.com#http://212.38.189.9:25461/live/brent/brent/74754.m3u8?checkedby:iptvcat.com#http://ux.mytvxweb.me:25461/Pr/1234/323301?checkedby:iptvcat.com
+http://best-servers.xyz:8000/aziz2020/2020aziz/6269?checkedby:iptvcat.com#http://207.38.89.242:8080/live/2993/2993/14592.ts?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/212.m3u8?checkedby:iptvcat.com#http://212.38.189.9:25461/live/brent/brent/74754.m3u8?checkedby:iptvcat.com#http://ux.mytvxweb.me:25461/Pr/1234/323301?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nickelodeon.png" group-title="Kids",US | Nickelodeon
-http://cdn.miip.tv:8080/canada/123456/528?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4228.ts
+#http://cdn.miip.tv:8080/canada/123456/528?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CN.png" group-title="Kids",US | Cartoon Network
-http://thenew.tv:8000/live/Dante/Dante1/2056.m3u8?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4645.ts#http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4871.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CN.png" group-title="Kids",Asia | Cartoon Network
-http://212.38.189.9:25461/live/leslie/leslie/75215.m3u8?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4871.ts
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",US | Disney Channel
-http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4795.ts#http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",TW | Disney Channel
+http://153.99.180.70:5021/live/361/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyJr.jpeg" group-title="Kids",US | Disney Jr
-http://212.38.189.9:25461/live/brent/brent/75067.m3u8?checkedby:iptvcat.com#http://207.38.89.242:8080/live/2993/2993/14589.ts?checkedby:iptvcat.com#http://plus-tv.us:8080/live/1899/1899/14589.m3u8?checkedby:iptvcat.com
+http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9860.m3u8#
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyXD.png" group-title="Kids",Asia | Disney XD
-http://212.38.189.9:25461/live/brent/brent/75215.m3u8?checkedby:iptvcat.com#http://212.38.189.9:25461/live/leslie/leslie/75215.m3u8?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4177.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Universal Kids.png" group-title="Kids",US | Universal Kids
-http://plus-tv.us:8080/live/1899/1899/14594.ts?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9923.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",TW | Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -96,13 +111,13 @@ rtmp://xiaoyu.speedws.com/sat/tv521
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBSHD.png" group-title="Taiwan",TW | TVBS HD
-http://153.99.180.70:5021/live/349/playlist.m3u8
+http://ddbb.228888888.xyz:8081/live/tw108.m3u8#http://153.99.180.70:5021/live/349/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/tvbshuanle.png" group-title="Taiwan",TW | TVBS歡樂台
 rtmp://xiaoyu.speedws.com/sat/tv421
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBS新闻.png" group-title="Taiwan",TW | TVBS新闻
-rtmp://xiaoyu.speedws.com/sat/tv551
+http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8#rtmp://xiaoyu.speedws.com/sat/tv551
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBS歡樂HD.png" group-title="Taiwan",TW | TVBS歡樂HD
 rtmp://xiaoyu.speedws.com/sat/tv421
@@ -218,14 +233,25 @@ http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hbohits.png" group-title="Movies",Asia | HBO Hits
 http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
 
+#EXTINF:-1 group-title="Movies",US | US | HBO 
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4870.ts
+
+#EXTINF:-1 group-title="Movies",US | HBO Comedy
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9797.ts
+
+
+
+#EXTINF:-1 group-title="Movies",US | HBO 2
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2942?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboaeast.gif" group-title="Movies",US | HBO East
-http://cdn.miip.tv:8080/canada/123456/2659?checkedby:iptvcat.com
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2947?checkedby:iptvcat.comm
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOZone.png" group-title="Movies",US | HBO Zone
 http://plus-tv.us:8080/live/10099/10099/14605.ts?checkedby:iptvcat.com#
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOFamily.png" group-title="Movies",US | HBO Family
-http://207.38.89.242:8080/live/17722/17722/14618.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9797.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOSignature.png" group-title="Movies",US | HBO Signature
 http://207.38.89.242:8080/live/17722/17722/14619.ts
@@ -254,6 +280,9 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/凤凰电影.png" group-title="Movies",TW | 凤凰电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
+#EXTINF:0,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
 #EXTINF:-1 ,English Movie
 https://59d39900ebfb8.streamlock.net/horrifiedtv/horrifiedtv/chunklist_w67985971.m3u8
 
@@ -269,16 +298,16 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com#http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31018?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HGTV.png" group-title="Variety",US | HGTV
-http://91.208.115.170:25461/zrqRqlfbCHqvVSR/hZFuVngyJAbkvYh/80673?checkedby:iptvcat.com
-
-http://cdn.miip.tv:8080/canada/123456/494?checkedby:iptvcat.com#http://207.38.89.242:8080/live/17299/17299/14641.m3u8?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/104538.m3u8?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/164345.m3u8?checkedby:iptvcat.com#
-
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",UK | TLC
-http://ux.mytvxweb.me:25461/Pr/1234/323825?checkedby:iptvcat.com#http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/40941?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9856.ts#http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9856.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",US | TLC
-http://cdn.miip.tv:8080/canada/123456/3712?checkedby:iptvcat.com#http://plus-tv.us:8080/live/10099/10099/14573.ts?checkedby:iptvcat.com#http://doubleagechanmain.com:80/123456/123456/10935?checkedby:iptvcat.com#http://thenew.tv:8000/live/Dante/Dante1/104580.m3u8?checkedby:iptvcat.com
+http://iptvbest.org/tomcopp/3ptvyjvb7T/2919?checkedby:iptvcat.com#
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/e.png" group-title="Variety",US | E!
+http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9859.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/animalplanet.png" group-title="Variety",CA | Animal Planet
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4642.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/animalplanet.png" group-title="Variety",Asia | Animal Planet
@@ -301,35 +330,29 @@ http://185.93.2.35:12012/live/359111068247FFA1/ZIB59FRsEgEqYR-HwGgEocDjN6lL9vaW7
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild (German)
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
-
+https://iptvcat.com/s/nat%https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discovery.jpeg" group-title="Variety",US | Discovery
-http://thenew.tv:8000/live/Dante/Dante1/104600.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discovery.jpeg" group-title="Variety",US | Discovery
-http://207.38.89.242:8080/live/17722/17722/14558.ts
-
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2833?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/discoveryID.jpeg" group-title="Variety",US | Discovery ID
-http://207.38.89.242:8080/live/17722/17722/14552.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/12520.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryFamily.png" group-title="Variety",US | Discovery Family
-http://207.38.89.242:8080/live/17722/17722/14556.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2835?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Discoverylife.png" group-title="Variety",US | Discovery Life
-http://207.38.89.242:8080/live/17722/17722/14557.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2838?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryScience.jpeg" group-title="Variety",US | Discovery Science
 http://doubleagechanmain.com:80/123456/123456/1523?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryVelocity.jpeg" group-title="Variety",US | Discovery Velocity
-http://207.38.89.242:8080/live/17299/17299/14631.m3u8?checkedby:iptvcat.com
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2839?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CookingChannel.jpeg" group-title="Variety",US | Cooking channel
 http://plus-tv.us:8080/live/1899/1899/14629.m3u8?checkedby:iptvcat.com
@@ -406,36 +429,29 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 http://207.38.89.242:8080/live/17722/17722/14621.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FX.png" group-title="Drama",US | FX
-http://207.38.89.242:8080/live/17722/17722/14560.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2855?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Fxx.png" group-title="Drama",US | FXX
-http://207.38.89.242:8080/live/17722/17722/14561.ts
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Hallmark.png" group-title="Drama",US | Hallmark
-http://207.38.89.242:8080/live/17722/17722/14562.ts
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HallmarkDrama.png" group-title="Drama",US | Hallmark Drama
-http://207.38.89.242:8080/live/17722/17722/14563.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2858?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Lifetime.png" group-title="Drama",US | Lifetime
-http://207.38.89.242:8080/live/17722/17722/14565.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2875?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/USANetwork.png" group-title="Drama",US | USA Network
-http://207.38.89.242:8080/live/17722/17722/14617.ts
+http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9864.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Bravo.png" group-title="Drama",US | Bravo TV
-http://207.38.89.242:8080/live/17722/17722/14627.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2806?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TruTV.png" group-title="Drama",US | Tru TV
-http://207.38.89.242:8080/live/17722/17722/14628.ts
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2925?checkedby:iptvcat.com
 
-
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBSMiami.jpeg" group-title="Drama",US | CBS Miami
-http://plus-tv.us:8080/live/1899/1899/14636.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Syfy.png" group-title="Drama",US | Syfy
-http://doubleagechanmain.com:80/123456/123456/1600?checkedby:iptvcat.com
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2913?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBS.png" group-title="Drama",US | CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-
 
 
 
@@ -812,7 +828,7 @@ http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBS.png" group-title="News",US | CBS News
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+https://www.cbsnews.com/common/video/dai_prod.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/cbsny.png" group-title="Drama",US | CBSN New York
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_7.m3u8
@@ -833,7 +849,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/ABC.png" group-title="News",US | ABC
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BBC.png" group-title="News",UK | BBC
