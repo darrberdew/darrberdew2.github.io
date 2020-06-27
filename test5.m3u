@@ -101,11 +101,8 @@ http://bd.flv.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-1
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天娛樂.jpg" group-title="Taiwan",TW | 中天娛樂
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天娱乐.jpg" group-title="Taiwan",TW | 中天娱乐
-http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天新聞.jpg" -title="Taiwan",TW | 中天新聞
-rtmp://xiaoyu.speedws.com/sat/tv521
+http://185.93.2.35:12012/live/359111068247FFA1/PhazR78bqEpNvvNrp5AuUes6rSlZMmMAWue9LwiaeRmABevfpQxnzcua1Un_eU04/8962BEDC95054ECA/871688.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天综合.jpg" group-title="Taiwan",TW | 中天综合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
@@ -356,16 +353,16 @@ http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4990.ts
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4994.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryScience.jpeg" group-title="Variety",US | Discovery Science
-http://doubleagechanmain.com:80/123456/123456/1523?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4988.ts#http://doubleagechanmain.com:80/123456/123456/1523?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DiscoveryVelocity.jpeg" group-title="Variety",US | Discovery Velocity
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2839?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4985.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CookingChannel.jpeg" group-title="Variety",US | Cooking channel
-http://plus-tv.us:8080/live/1899/1899/14629.m3u8?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4827.ts#http://plus-tv.us:8080/live/1899/1899/14629.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foodnetwork.png" group-title="Variety",US | Food Network
-http://doubleagechanmain.com:80/123456/123456/1529?checkedby:iptvcat.com#http://plus-tv.us:8080/live/10099/10099/14559.ts?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4188.ts#http://doubleagechanmain.com:80/123456/123456/1529?checkedby:iptvcat.com#http://plus-tv.us:8080/live/10099/10099/14559.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foodnetwork.png" group-title="Variety",Asia | Food Network
 http://doubleagechanmain.com:80/123456/123456/1530?checkedby:iptvcat.com
@@ -374,7 +371,8 @@ http://doubleagechanmain.com:80/123456/123456/1530?checkedby:iptvcat.com
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Travelchannel.png" group-title="Variety",US | TRAVEL Channel
-http://doubleagechanmain.com:80/123456/123456/1608?checkedby:iptvcat.com#http://ux.mytvxweb.me:25461/Pr/1234/323263?checkedby:iptvcat.com#http://207.38.89.242:8080/live/27/27/14574.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9652.ts
+#http://doubleagechanmain.com:80/123456/123456/1608?checkedby:iptvcat.com#http://ux.mytvxweb.me:25461/Pr/1234/323263?checkedby:iptvcat.com#http://207.38.89.242:8080/live/27/27/14574.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Travelchannel.png" group-title="Variety",Asia | Travel Channel
 http://doubleagechanmain.com:80/123456/123456/1609?checkedby:iptvcat.com
@@ -431,15 +429,18 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Drama",Asia | AXN
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne&checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Drama",AXN
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9681.ts
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/fox.png" group-title="Drama",US | Fox
-http://207.38.89.242:8080/live/17722/17722/14621.ts
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4189.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FX.png" group-title="Drama",US | FX
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2855?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9794.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Fxx.png" group-title="Drama",US | FXX
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2858?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/5017.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Lifetime.png" group-title="Drama",US | Lifetime
 http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2875?checkedby:iptvcat.com
@@ -448,19 +449,20 @@ http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2875?checkedby:iptvcat.com
 http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9864.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Bravo.png" group-title="Drama",US | Bravo TV
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2806?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9765.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TruTV.png" group-title="Drama",US | Tru TV
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2925?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9803.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Syfy.png" group-title="Drama",US | Syfy
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2913?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4270.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBS.png" group-title="Drama",US | CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4648.ts
 
-
+#EXTINF:-1 group-title="Drama",UK | True TV
+http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4282.ts
 
 
 
