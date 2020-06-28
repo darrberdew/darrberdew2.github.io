@@ -15,7 +15,7 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby First
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9931.ts
+http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9931.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/babytv.jpeg" group-title="Kids",CA | Baby TV
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9931.ts
@@ -29,9 +29,6 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC 2
 http://51.52.156.22:8888/http/003?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies 
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4091.ts
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/kids%20central.jpeg" group-title="Kids",US | Kids Central
@@ -290,18 +287,14 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/4.jpeg" group-title="Variety",UK | Channel 4
 http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com#http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/31018?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HGTV.png" group-title="Variety",US | HGTV
-http://iptvgold.org:25461/oumlil75/esNUlsddgi/3048?checkedby:iptvcat.com#http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9856.m3u8?checkedby:iptvcat.com
+http://dna-iptv.com:999/SoZSdjBSan/KMZMfAIKxD/31242?checkedby:iptvcat.com#http://iptvgold.org:25461/oumlil75/esNUlsddgi/3048?checkedby:iptvcat.com#http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9856.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",US | TLC
-http://dna-iptv.com:999/SoZSdjBSan/KMZMfAIKxD/31116?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/e.png" group-title="Variety",US | E!
-http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9859.m3u8
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?checkedby:iptvcat.com
 
 
 
