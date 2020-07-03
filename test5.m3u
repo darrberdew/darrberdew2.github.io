@@ -12,13 +12,19 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",YouTube | Ben and Holly's Little Kingdom
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786627/ei/o-z-XoeIHfPx4-EP05C1IA/ip/180.129.88.206/id/ha8aDiwEGCE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCkf3Mbj0_jo715PDygfQ9ULVdD9k2-awZLAdDWMQuaYCIQDF_gmIPEntBMB7yPtvD0WfDheTz3cO450_zY8anEogew%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 group-title="Kids",Baby First YouTube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593785824/ei/gOn-XpCWIIW38QPW5pjwBw/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPJiyHc8kK0XpP7ux8Mcx23t9_CJT954_CSi40i7aWCaAiBlPXFxZFGxb4xH30W-c55aVfKSy4eOXW4S4Mebj-LOMw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
 http://190.122.109.218:8888/http/013?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC 2
 http://51.52.156.22:8888/http/003?checkedby:iptvcat.com
@@ -28,10 +34,6 @@ http://hdtv.ub1818.com/ublive/index_17.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",TW | Disney Channel
 http://153.99.180.70:5021/live/361/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",TW | Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/嘉仕卡通%20jiajiakatong.jpg" group-title="Kids",CN | 嘉仕卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
@@ -54,7 +56,8 @@ http://bd.flv.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-1
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天新聞.jpg" -title="Taiwan",TW | 中天新聞
-http://185.93.2.35:12012/live/359111068247FFA1/PhazR78bqEpNvvNrp5AuUes6rSlZMmMAWue9LwiaeRmABevfpQxnzcua1Un_eU04/8962BEDC95054ECA/871688.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786065/ei/cer-XqXGCZCxwgPHu4TQDA/ip/180.129.88.206/id/wUPPkSANpyo.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZaGh6M2R6jSaaD_MIylGTlKDIb4F5CWTfljkk_2rPpICIQC6cM1mE-cryUKqpu0Yqxxd9XJrGv7e43nOs8K-f6wa8w%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天综合.jpg" group-title="Taiwan",TW | 中天综合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
@@ -66,8 +69,7 @@ http://ddbb.228888888.xyz:8081/live/tw108.m3u8#http://153.99.180.70:5021/live/34
 rtmp://xiaoyu.speedws.com/sat/tv421
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBS新闻.png" group-title="Taiwan",TW | TVBS新闻
-http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8#rtmp://xiaoyu.speedws.com/sat/tv551
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786148/ei/xOr-XquwApnsowOr1664Aw/ip/180.129.88.206/id/Hu1FkdAOws0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGWb41NbEXoVk_MXgQTQBT9WMEquVPTYHfN82xd2T-yUCIEnux58ebST_HCcgz7b5qop_P_FpBx_64P8llQ8EMiU5/file/index.m3u8/
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/环球.png" group-title="Taiwan",TW | 环球电视台
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
@@ -75,7 +77,9 @@ http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森戏剧.jpg" group-title="Taiwan",TW | 东森戏剧
 http://185.93.2.35:12012/live/359111068247FFA1/K-J8wMufdvLCaTVTs5TvB0tIFxZ7pSk4fhAht--vgbuLyn4CrerQu-2hPqWvgwed/F276A55A25484C85/805457.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森新闻.jpeg" group-title="Taiwan",TW | 东森新闻
-http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786249/ei/Kev-Xq7gHoyqz7sPtJ-oyA0/ip/180.129.88.206/id/RaIJ767Bj_M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgK8a_T9fkuI0poYgH-6SRe0ygCLTmvEJWfE3awmRPms8CIQD-5nD6Q9oDRfQAYFkup1bASDgV-VtYvlQgTtSLOn5AAw%3D%3D/file/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森洋片.png" group-title="Taiwan",TW | 东森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森电影.png" group-title="Taiwan",TW | 东森电影
@@ -93,7 +97,10 @@ http://hdtv.ub1818.com/ublive/index_28.m3u8#rtmp://xiaoyu.speedws.com/sat/tv091
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中視新聞.jpg" group-title="Taiwan",TW | 中視新聞
-http://ddbb.228888888.xyz:8081/live/tw107.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786414/ei/zuv-Xs2nA47KvAT29qXADA/ip/180.129.88.206/id/wxQcIb8zcPA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFvRbIEbgKk3knxy8BTlotMDNPj8JKosUCKJk8jk-MXkCIQCk-vvtb-8OZqD12DiAbx3YO8X0msmESrdRmIiICBPSUA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Taiwan",TW | 台視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786521/ei/Oez-XqrNHcun1AbLlISoCA/ip/180.129.88.206/id/NbjI0cARzjQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcc-LCP5DuavxMoH8YpCusyUHZ7v9Ov_eiRByXEbDNTwCIEAMzShQqUqreeHLJwfSyVvTWK380FLNgGNVLAspdN_S/file/index.m3u8
 
 
 #EXTINF:-1 group-title="Taiwan",TW | 民視第一台
@@ -118,6 +125,9 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/八大综合.jpg" group-title="Taiwan",TW | 八大综合
 http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+
+#EXTINF:-1 group-title="Taiwan",TW | 華視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786333/ei/fOv-XoOdOYOn8QP8n43gDA/ip/180.129.88.206/id/TL8mmew3jb8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSbWHS67bJJ_FlBqSsXdIHwOC0xa8_MQDMiTrjZbZms4CIQCjAmxB7o9L2SXE_r8ZUbt1Ae8nU1IZr-tU87mERNSmKg%3D%3D/file/index.m3u8
 
 	
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/yuanzhumin.png" group-title="Taiwan",TW | 原住民族電視
@@ -773,9 +783,12 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/bloomberg.png" group-title="News",US | Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/ABC.png" group-title="News",US | ABC
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/ABC.png" group-title="News",US | ABC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786639/ei/r-z-XsXwK9PIvATz_buQAQ/ip/180.129.88.206/id/w_Ma8oQLmSM.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCeYc10q9NPj8ayyM_vo7ZIV6HwQAsmgw4M1eGFdwAhYCIQDU6ajSl6LkbANU6GeK8PolLbAXzO-_P92y3pllZGqxbA%3D%3D/file/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/ABC.png" group-title="News",AU | ABC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786562/ei/Yuz-Xu_mK4ymwgPi7bg4/ip/180.129.88.206/id/3YyVIl97CFM.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgS-FmKqEo4011xsaFxQ_frndM3qHDiuA9mY9g8es0NPgCIEF4OzHNyw2XEYB8OggXvhK26BMN73Fz6HVMeSGRdZgV/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BBC.png" group-title="News",UK | BBC
 http://51.52.156.22:8888/http/004
