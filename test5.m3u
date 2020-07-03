@@ -16,12 +16,19 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 
+
+#EXTINF:-1 group-title="Kids",Youtube | Baby First
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593785824/ei/gOn-XpCWIIW38QPW5pjwBw/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPJiyHc8kK0XpP7ux8Mcx23t9_CJT954_CSi40i7aWCaAiBlPXFxZFGxb4xH30W-c55aVfKSy4eOXW4S4Mebj-LOMw%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Kids",Youtube | Booba
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786893/ei/re3-Xuap/IdyC9fwPy5uLkAg/ip/180.129.88.206/id/XK8METRgK_U.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMDYB3QmIhQCWDTLo3C99lXFipCcmBG1H0cp-PSsUHgGAiEA09F7ZkB3G-Bl0kFipHqDK0k_jtATuz7cByGYLyCobic%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",YouTube | Ben and Holly's Little Kingdom
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786627/ei/o-z-XoeIHfPx4-EP05C1IA/ip/180.129.88.206/id/ha8aDiwEGCE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCkf3Mbj0_jo715PDygfQ9ULVdD9k2-awZLAdDWMQuaYCIQDF_gmIPEntBMB7yPtvD0WfDheTz3cO450_zY8anEogew%3D%3D/file/index.m3u8
 
 
-#EXTINF:-1 group-title="Kids",Baby First YouTube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593785824/ei/gOn-XpCWIIW38QPW5pjwBw/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPJiyHc8kK0XpP7ux8Mcx23t9_CJT954_CSi40i7aWCaAiBlPXFxZFGxb4xH30W-c55aVfKSy4eOXW4S4Mebj-LOMw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
 http://190.122.109.218:8888/http/013?checkedby:iptvcat.com
@@ -267,6 +274,8 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31242.m3u8?checkedby:iptvcat.
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",US | TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="Variety",YouTube | Mr Bean
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593787554/ei/QvD-Xor5L5vz4-EPnM6n-Aw/ip/180.129.88.206/id/Ue0xaq1Q-B4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAVmMDRQ5Qdf02ANMM0blYPFvINS7bqv1AQtkODl_sXoCIEF2UgAB2lT1U41iVvfuWJL3HhD1RNg5xPWt-P1f2chk/file/index.m3u8
 
 
 #EXTINF:-1 group-title="Variety",Asia | CNEX
@@ -761,6 +770,9 @@ http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/foxnews.png" group-title="News",US | Fox News
 https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 group-title="News",US | NBC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593787642/ei/mvD-XvmcLofI4-EPzeGFoAk/ip/180.129.88.206/id/tPeUHECNLKs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPJBzy_kMSmf79iywHFWib-eoL6lOA9rKQvGt-K9RMINAiEA_jRzClZx8eOJrVw0HwlGGvx3bUKkIX8tIBBNHd68JQk%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBS.png" group-title="News",US | CBS News
 https://www.cbsnews.com/common/video/dai_prod.m3u8?checkedby:iptvcat.com
