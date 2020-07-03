@@ -14,9 +14,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby First
-http://51.159.58.217:8000/live/kosovalindore/xWKYQiuHS4/9931.m3u8?checkedby:iptvcat.com
-
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
+http://190.122.109.218:8888/http/013?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
@@ -24,23 +23,8 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",UK | Cbeebies BBC 2
 http://51.52.156.22:8888/http/003?checkedby:iptvcat.com
 
-
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nicktoons.jpeg" group-title="Kids",TW | Nick Jr
 http://hdtv.ub1818.com/ublive/index_17.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Nickelodeon.png" group-title="Kids",US | Nickelodeon
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4228.ts
-#http://cdn.miip.tv:8080/canada/123456/528?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CN.png" group-title="Kids",US | Cartoon Network
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4645.ts#http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4871.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CN.png" group-title="Kids",Asia | Cartoon Network
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4871.ts
-
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",US | Disney Channel
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4795.ts#http://cdn.miip.tv:8080/canada/123456/105?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",TW | Disney Channel
 http://153.99.180.70:5021/live/361/playlist.m3u8
