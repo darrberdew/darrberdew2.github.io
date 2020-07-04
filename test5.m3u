@@ -37,7 +37,7 @@ http://51.52.156.22:8888/http/003?checkedby:iptvcat.com
 http://hdtv.ub1818.com/ublive/index_17.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",TW | Disney Channel
-http://153.99.180.70:5021/live/361/playlist.m3u8
+http://125.227.210.37:52807/VideoInput/play.ts#http://153.99.180.70:5021/live/361/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/嘉仕卡通%20jiajiakatong.jpg" group-title="Kids",CN | 嘉仕卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
@@ -57,22 +57,29 @@ http://bd.flv.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-1
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天娛樂.jpg" group-title="Taiwan",TW | 中天娛樂
-http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-
+http://125.227.210.37:36251/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天新聞.jpg" -title="Taiwan",TW | 中天新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593873433/ei/uD8AX-vZOZOA4-EP7MOXsAY/ip/180.129.88.206/id/wUPPkSANpyo.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKDzCFRyPQ2H3bkVK5qU1hzwLvPHeTIwdlCK0uwhITboAiAGtFH4rw8detgLbQnJx53NIZa9p9CH6q_nyriJRXeaDw%3D%3D/file/index.m3u8
-
+http://125.227.210.37:64954/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天综合.jpg" group-title="Taiwan",TW | 中天综合
-http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+http://125.227.210.37:53142/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBSHD.png" group-title="Taiwan",TW | TVBS HD
 http://ddbb.228888888.xyz:8081/live/tw108.m3u8#http://153.99.180.70:5021/live/349/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/tvbshuanle.png" group-title="Taiwan",TW | TVBS歡樂台
-rtmp://xiaoyu.speedws.com/sat/tv421
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBS新闻.png" group-title="Taiwan",TW | TVBS新闻
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 group-title="Taiwan",TW | 中視新聞
+http://hdtv.ub1818.com/ublive/index_9.m3u8
+
+#EXTINF:-1 group-title="Taiwan",TW | 中視菁采台
+http://hdtv.ub1818.com/ublive/index_7.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 華視新聞
+http://hdtv.ub1818.com/ublive/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/环球.png" group-title="Taiwan",TW | 环球电视台
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
@@ -80,7 +87,7 @@ http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森戏剧.jpg" group-title="Taiwan",TW | 东森戏剧
 http://185.93.2.35:12012/live/359111068247FFA1/K-J8wMufdvLCaTVTs5TvB0tIFxZ7pSk4fhAht--vgbuLyn4CrerQu-2hPqWvgwed/F276A55A25484C85/805457.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森新闻.jpeg" group-title="Taiwan",TW | 东森新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786249/ei/Kev-Xq7gHoyqz7sPtJ-oyA0/ip/180.129.88.206/id/RaIJ767Bj_M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgK8a_T9fkuI0poYgH-6SRe0ygCLTmvEJWfE3awmRPms8CIQD-5nD6Q9oDRfQAYFkup1bASDgV-VtYvlQgTtSLOn5AAw%3D%3D/file/index.m3u8
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森洋片.png" group-title="Taiwan",TW | 东森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -124,7 +131,30 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
 #EXTINF:-1 group-title="Taiwan",TW | 華視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786333/ei/fOv-XoOdOYOn8QP8n43gDA/ip/180.129.88.206/id/TL8mmew3jb8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSbWHS67bJJ_FlBqSsXdIHwOC0xa8_MQDMiTrjZbZms4CIQCjAmxB7o9L2SXE_r8ZUbt1Ae8nU1IZr-tU87mERNSmKg%3D%3D/file/index.m3u8
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+#EXTINF:-1 group-title="Taiwan",TW | 靖天歡樂台
+http://hdtv.ub1818.com/ublive/index_32.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天國際台
+http://hdtv.ub1818.com/ublive/index_25.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天育樂台
+http://hdtv.ub1818.com/ublive/index_24.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天綜合台
+http://hdtv.ub1818.com/ublive/index_19.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天戲劇台
+http://hdtv.ub1818.com/ublive/index_22.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天電影台
+http://hdtv.ub1818.com/ublive/index_23.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天映畫
+http://hdtv.ub1818.com/ublive/index_26.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天日本台
+http://hdtv.ub1818.com/ublive/index_20.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖天資訊台
+http://hdtv.ub1818.com/ublive/index_31.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖洋戲劇台
+http://hdtv.ub1818.com/ublive/index_33.m3u8
+#EXTINF:-1 group-title="Taiwan",TW | 靖洋卡通台
+http://hdtv.ub1818.com/ublive/index_18.m3u8
 
 	
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/yuanzhumin.png" group-title="Taiwan",TW | 原住民族電視
@@ -189,34 +219,17 @@ http://hdtv.ub1818.com/ublive/index_30.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Warner.png" group-title="Movies",US | Warner
 http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 
+#EXTINF:-1 group-title="Movies",Asia | Star Movies
+http://125.227.210.37:61495/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboasia.jpeg" group-title="Movies",Asia | HBO 
 http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hbohits.png" group-title="Movies",Asia | HBO Hits
 http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
 
-#EXTINF:-1 group-title="Movies",US | US | HBO 
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4870.ts
-
-#EXTINF:-1 group-title="Movies",US | HBO Comedy
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9797.ts
-
-
-
-#EXTINF:-1 group-title="Movies",US | HBO 2
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4687.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboaeast.gif" group-title="Movies",US | HBO East
-http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2947?checkedby:iptvcat.comm
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOZone.png" group-title="Movies",US | HBO Zone
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9858.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOFamily.png" group-title="Movies",US | HBO Family
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9798.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HBOSignature.png" group-title="Movies",US | HBO Signature
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9800.ts
+#EXTINF:-1 group-title="Movies",TW | HBO HD
+http://125.227.210.37:12801/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="abbc" group-title="Movies",TW | 大众影视
 http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
@@ -261,11 +274,13 @@ http://80.32.125.233:8000/play/a004/index.m3u8?checkedby:iptvcat.com#http://tvpr
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/HGTV.png" group-title="Variety",US | HGTV
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31242.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",Asia | TLC
+http://125.227.210.37:43868/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TLC.png" group-title="Variety",US | TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Variety",YouTube | Mr Bean
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593787554/ei/QvD-Xor5L5vz4-EPnM6n-Aw/ip/180.129.88.206/id/Ue0xaq1Q-B4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAVmMDRQ5Qdf02ANMM0blYPFvINS7bqv1AQtkODl_sXoCIEF2UgAB2lT1U41iVvfuWJL3HhD1RNg5xPWt-P1f2chk/file/index.m3u8
 
 
 #EXTINF:-1 group-title="Variety",Asia | CNEX
@@ -287,6 +302,23 @@ http://185.93.2.35:12012/live/359111068247FFA1/kCRdK-SabFep-1NkdUpQhyihdKpjgQN7e
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeo.png" group-title="Variety",Asia | National Geographic
 http://185.93.2.35:12012/live/359111068247FFA1/ZIB59FRsEgEqYR-HwGgEocDjN6lL9vaW7pfy766MVr0C_eKs6paMMI2nzYDYGHfW/56B534EDBA594D74/932852.ts
 
+
+
+
+#EXTINF:-1  group-title="Variety",Asia | 求索动物
+http://125.210.152.18:9090/live/QSDW_1200.m3u8
+#EXTINF:-1  group-title="Variety",Asia | 求索動物HD
+http://125.210.152.18:9090/live/QSDW.m3u8
+#EXTINF:-1  group-title="Variety",Asia | 求索生活
+http://125.210.152.18:9090/live/QSSH_1200.m3u8
+#EXTINF:-1  group-title="Variety",Asia | 求索生活HD
+http://125.210.152.18:9090/live/QSSH.m3u8
+#EXTINF:-1  group-title="Variety",Asia | 求索科学
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1  group-title="Variety",Asia | 求索科學HD
+http://125.210.152.18:9090/live/QSKX.m3u8
+#EXTINF:-1  group-title="Variety",Asia | 求索記錄高清
+http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild
 https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8
