@@ -25,8 +25,7 @@ http://hdtv.ub1818.com/ublive/index_18.m3u8
 
 
 #EXTINF:-1 group-title="Kids",Youtube | Booba
-https://manifest.googlevideo.com/api/manifest/dash/expire/1593786893/ei/re3-XuapIdyC9fwPy5uLkAg/ip/180.129.88.206/id/XK8METRgK_U.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/beids/9466586/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN6kqszfx5lIuyFVwlgSzI2dqZ8sBrsF_Q8ttIqkUlrCAiEA5qbtBN8L32Bq0jrSdA31D8GGLhc7wa3quM7SFBRsLQo%3D\",\"hlsManifestUrl\":\"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786893/ei/re3-XuapIdyC9fwPy5uLkAg/ip/180.129.88.206/id/XK8METRgK_U.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMDYB3QmIhQCWDTLo3C99lXFipCcmBG1H0cp-PSsUHgGAiEA09F7ZkB3G-Bl0kFipHqDK0k_jtATuz7cByGYLyCobic%3D/file/index.m3u8
-
+https://www.youtube.com/watch?v=XK8METRgK_U
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
