@@ -18,15 +18,12 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Kids",Youtube | Baby First
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593785824/ei/gOn-XpCWIIW38QPW5pjwBw/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPJiyHc8kK0XpP7ux8Mcx23t9_CJT954_CSi40i7aWCaAiBlPXFxZFGxb4xH30W-c55aVfKSy4eOXW4S4Mebj-LOMw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593872996/ei/Az4AX9iNOvT74-EP5_e0-A4/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALFAdY9FnniSf6_WJCnFDLe7A8DX5AEXWwdOHS2WTZpDAiBSzgYpGyNx0gyySJP3XvFbjAgyFaBxYh32W30KGeeNUw%3D%3D/file/index.m3u
 
 
 
 #EXTINF:-1 group-title="Kids",Youtube | Booba
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593788893/ei/ffX-XpOTJZ79oAP437m4Bw/ip/180.129.88.206/id/sOvne5ielXs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYpTMlBzhXVcH73RQNAJ89mW9Ca6O6ht-pDl3YTlioyICIDvfbbu9atoQJMy58tzhk8FvRsUQuoeDfMmDq9m5eCEX/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/CBeebies.png" group-title="Kids",YouTube | Ben and Holly's Little Kingdom
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786627/ei/o-z-XoeIHfPx4-EP05C1IA/ip/180.129.88.206/id/ha8aDiwEGCE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCkf3Mbj0_jo715PDygfQ9ULVdD9k2-awZLAdDWMQuaYCIQDF_gmIPEntBMB7yPtvD0WfDheTz3cO450_zY8anEogew%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/dash/expire/1593786893/ei/re3-XuapIdyC9fwPy5uLkAg/ip/180.129.88.206/id/XK8METRgK_U.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/beids/9466586/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN6kqszfx5lIuyFVwlgSzI2dqZ8sBrsF_Q8ttIqkUlrCAiEA5qbtBN8L32Bq0jrSdA31D8GGLhc7wa3quM7SFBRsLQo%3D\",\"hlsManifestUrl\":\"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786893/ei/re3-XuapIdyC9fwPy5uLkAg/ip/180.129.88.206/id/XK8METRgK_U.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMDYB3QmIhQCWDTLo3C99lXFipCcmBG1H0cp-PSsUHgGAiEA09F7ZkB3G-Bl0kFipHqDK0k_jtATuz7cByGYLyCobic%3D/file/index.m3u8
 
 
 
@@ -63,8 +60,7 @@ http://bd.flv.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-1
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天新聞.jpg" -title="Taiwan",TW | 中天新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786065/ei/cer-XqXGCZCxwgPHu4TQDA/ip/180.129.88.206/id/wUPPkSANpyo.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZaGh6M2R6jSaaD_MIylGTlKDIb4F5CWTfljkk_2rPpICIQC6cM1mE-cryUKqpu0Yqxxd9XJrGv7e43nOs8K-f6wa8w%3D%3D/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593873433/ei/uD8AX-vZOZOA4-EP7MOXsAY/ip/180.129.88.206/id/wUPPkSANpyo.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKDzCFRyPQ2H3bkVK5qU1hzwLvPHeTIwdlCK0uwhITboAiAGtFH4rw8detgLbQnJx53NIZa9p9CH6q_nyriJRXeaDw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中天综合.jpg" group-title="Taiwan",TW | 中天综合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
@@ -76,7 +72,7 @@ http://ddbb.228888888.xyz:8081/live/tw108.m3u8#http://153.99.180.70:5021/live/34
 rtmp://xiaoyu.speedws.com/sat/tv421
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBS新闻.png" group-title="Taiwan",TW | TVBS新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786148/ei/xOr-XquwApnsowOr1664Aw/ip/180.129.88.206/id/Hu1FkdAOws0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGWb41NbEXoVk_MXgQTQBT9WMEquVPTYHfN82xd2T-yUCIEnux58ebST_HCcgz7b5qop_P_FpBx_64P8llQ8EMiU5/file/index.m3u8/
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/环球.png" group-title="Taiwan",TW | 环球电视台
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
@@ -85,7 +81,6 @@ http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 http://185.93.2.35:12012/live/359111068247FFA1/K-J8wMufdvLCaTVTs5TvB0tIFxZ7pSk4fhAht--vgbuLyn4CrerQu-2hPqWvgwed/F276A55A25484C85/805457.ts
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森新闻.jpeg" group-title="Taiwan",TW | 东森新闻
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786249/ei/Kev-Xq7gHoyqz7sPtJ-oyA0/ip/180.129.88.206/id/RaIJ767Bj_M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgK8a_T9fkuI0poYgH-6SRe0ygCLTmvEJWfE3awmRPms8CIQD-5nD6Q9oDRfQAYFkup1bASDgV-VtYvlQgTtSLOn5AAw%3D%3D/file/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/东森洋片.png" group-title="Taiwan",TW | 东森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -103,12 +98,6 @@ http://hdtv.ub1818.com/ublive/index_28.m3u8#rtmp://xiaoyu.speedws.com/sat/tv091
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中视综合.png" group-title="Taiwan",TW | 中视综合
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/中視新聞.jpg" group-title="Taiwan",TW | 中視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786414/ei/zuv-Xs2nA47KvAT29qXADA/ip/180.129.88.206/id/wxQcIb8zcPA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFvRbIEbgKk3knxy8BTlotMDNPj8JKosUCKJk8jk-MXkCIQCk-vvtb-8OZqD12DiAbx3YO8X0msmESrdRmIiICBPSUA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan",TW | 台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593786521/ei/Oez-XqrNHcun1AbLlISoCA/ip/180.129.88.206/id/NbjI0cARzjQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcc-LCP5DuavxMoH8YpCusyUHZ7v9Ov_eiRByXEbDNTwCIEAMzShQqUqreeHLJwfSyVvTWK380FLNgGNVLAspdN_S/file/index.m3u8
-
 
 #EXTINF:-1 group-title="Taiwan",TW | 民視第一台
 http://hdtv.ub1818.com/ublive/index_2.m3u8
@@ -124,6 +113,7 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/三立新闻.png" group-title="Taiwan",TW | 三立新闻
 http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/三立.jpeg" group-title="Taiwan",TW | 三立Live
