@@ -17,7 +17,7 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids",Youtube | Baby First
+#EXTINF:-1 group-title="Kids",Youtube Live| Baby First
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593872996/ei/Az4AX9iNOvT74-EP5_e0-A4/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALFAdY9FnniSf6_WJCnFDLe7A8DX5AEXWwdOHS2WTZpDAiBSzgYpGyNx0gyySJP3XvFbjAgyFaBxYh32W30KGeeNUw%3D%3D/file/index.m3u
 
 #EXTINF:-1 group-title="Kids",TW | 靖洋卡通
@@ -26,6 +26,9 @@ http://hdtv.ub1818.com/ublive/index_18.m3u8
 
 #EXTINF:-1 group-title="Kids",Youtube | Booba
 https://www.youtube.com/watch?v=XK8METRgK_U
+
+#EXTINF:-1 group-title="Kids",Youtube | Baby First
+https://www.youtube.com/watch?v=Vm958YB-G5c
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
