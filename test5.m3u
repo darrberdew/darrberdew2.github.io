@@ -20,6 +20,8 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 group-title="Kids",Youtube | Baby First
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593872996/ei/Az4AX9iNOvT74-EP5_e0-A4/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALFAdY9FnniSf6_WJCnFDLe7A8DX5AEXWwdOHS2WTZpDAiBSzgYpGyNx0gyySJP3XvFbjAgyFaBxYh32W30KGeeNUw%3D%3D/file/index.m3u
 
+#EXTINF:-1 group-title="Kids",TW | 靖洋卡通
+http://hdtv.ub1818.com/ublive/index_18.m3u8
 
 
 #EXTINF:-1 group-title="Kids",Youtube | Booba
@@ -47,9 +49,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids",Cartoon
 http://bd.flv.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
-
-
-
+	
 
 
 
@@ -64,7 +64,7 @@ http://125.227.210.37:64954/VideoInput/play.ts
 http://125.227.210.37:53142/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/TVBSHD.png" group-title="Taiwan",TW | TVBS HD
-http://ddbb.228888888.xyz:8081/live/tw108.m3u8#http://153.99.180.70:5021/live/349/playlist.m3u8
+http://hdtv.ub1818.com/ublive/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/tvbshuanle.png" group-title="Taiwan",TW | TVBS歡樂台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE?checkedby:iptvcat.com
@@ -320,6 +320,15 @@ http://125.210.152.18:9090/live/QSKX.m3u8
 #EXTINF:-1  group-title="Variety",Asia | 求索記錄高清
 http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
 
+
+#EXTINF:-1  group-title="Variety",Asia | Discovery
+https://pullstream-ucan.speedws.com/live/ee1c078afffb463aaa432a6d0800ca12/playlist.m3u8
+#EXTINF:-1  group-title="Variety",Asia | Discovery Science
+https://pullstream-ucan.speedws.com/live/c453cda983b94bccb37f4281e7ac58b8/playlist.m3u8
+#EXTINF:-1  group-title="Variety",Asia | Discovery Asia
+https://pullstream-ucan.speedws.com/live/d83edd6e060c48fe8bce2bc4475ea3c4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/natgeowild.jpeg" group-title="Variety",US | NatGeo Wild
 https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8
 
@@ -385,7 +394,8 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Variety",Asia | Puppy TV
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Drama",Asia | AXN
@@ -399,7 +409,7 @@ http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9681.ts
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4189.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/FX.png" group-title="Drama",US | FX
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9794.ts
+http://210.61.206.128/push-rtmp-l1-hs.pstatp.com/stage/zhangmutou130.flv
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/Fxx.png" group-title="Drama",US | FXX
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/5017.ts
