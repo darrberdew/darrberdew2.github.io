@@ -16,11 +16,6 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 
-
-#EXTINF:-1 group-title="Kids",Youtube Live| Baby First
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593872996/ei/Az4AX9iNOvT74-EP5_e0-A4/ip/180.129.88.206/id/Vm958YB-G5c.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALFAdY9FnniSf6_WJCnFDLe7A8DX5AEXWwdOHS2WTZpDAiBSzgYpGyNx0gyySJP3XvFbjAgyFaBxYh32W30KGeeNUw%3D%3D/file/index.m3u8
-
-
 #EXTINF:-1 group-title="Kids",TW | 靖洋卡通
 http://hdtv.ub1818.com/ublive/index_18.m3u8
 
@@ -42,7 +37,13 @@ http://51.52.156.22:8888/http/003?checkedby:iptvcat.com
 http://hdtv.ub1818.com/ublive/index_17.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/DisneyChannel.png" group-title="Kids",TW | Disney Channel
-http://125.227.210.37:52807/VideoInput/play.ts#http://153.99.180.70:5021/live/361/playlist.m3u8
+http://125.227.210.37:52807/VideoInput/play.ts#http://153.99.180.70:5021/live/361/playlist.m3u8#http://f9.apps1818.com:8080/live/30/53c9745c9c1cd6690be849b5747119dd/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Kr | Disney Jr
+http://211.245.55.198:1024/m2u/239.192.54.8:49220
+
+#EXTINF:-1 group-title="Kids",Kr | Disney 
+http://211.245.55.198:1024/m2u/239.192.54.5:49220
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/嘉仕卡通%20jiajiakatong.jpg" group-title="Kids",CN | 嘉仕卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
@@ -229,10 +230,13 @@ http://125.227.210.37:61495/VideoInput/play.ts
 #EXTINF:-1 group-title="Movies",TW | HBO HD
 http://125.227.210.37:12801/VideoInput/play.ts
 
+#EXTINF:-1 group-title="Movies",TW | HBO HD
+http://f8.apps8888.com:8080/live/332/cf4f03d48be60e675131d45664df6950/index1752.ts"
+
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hboasia.jpeg" group-title="Movies",Asia | HBO 
 http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hbohits.png" group-title="Movies",Asia | HBO Hits
+#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/hbohits.png" group-title="Movies",Asia | HBO Hits s
 http://185.93.2.35:12012/live/359111068247FFA1/55zLveuMxJaGb66TPSSDHuj8wNVOiCBlmtrvGrrN3kIeW0iYYu81-Cmj2tU6au0t/6FD1470786354194/711776.ts
 
 #EXTINF:-1 tvg-logo="abbc" group-title="Movies",TW | 大众影视
@@ -286,6 +290,10 @@ http://125.227.210.37:43868/VideoInput/play.ts
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:-1 group-title="Variety",Asia | Fox Crime
+http://f8.apps8888.com:8080/live/386/0a43b578df70f48e754432f41fb3c0ef/index7149.ts"
+
+Sent from my Huawei phone
 
 #EXTINF:-1 group-title="Variety",Asia | CNEX
 http://hdtv.ub1818.com/ublive/index_29.m3u8
@@ -397,8 +405,13 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Variety",Asia |ViuTV
+http://61.238.6.49:8000/bysid/99
 
-#EXTINF:-1 group-title="Variety",Asia | Puppy TV
+#EXTINF:-1 group-title="Variety",Asia |ViuTV6
+http://61.238.6.49:8000/bysid/96
+
+#EXTINF:-1 group-title="Variety",US | Puppy TV
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 
@@ -406,8 +419,7 @@ http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/axn.png" group-title="Drama",AXN
-http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/9681.ts
-
+http://f8.apps8888.com:8080/live/103/f2fe552d805f01a1b14d93248c38d64d/index6589.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/fox.png" group-title="Drama",US | Fox
 http://live.faucontv.com:8000/live/kosovalindore/xWKYQiuHS4/4189.ts
