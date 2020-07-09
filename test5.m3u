@@ -23,7 +23,7 @@ http://hdtv.ub1818.com/ublive/index_18.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
 http://f8.apps8888.com:8080/live/1129/edb1931c5168e05fcb687322d11e4a53/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
+#EXTINF:-1 aspect-ratio=16:9 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby TV
 http://190.122.109.218:8888/http/013?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://github.com/darrberdew/tv/raw/master/logos/BabyFirst.jpeg" group-title="Kids",US | Baby First
